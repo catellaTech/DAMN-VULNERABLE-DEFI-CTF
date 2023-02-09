@@ -8,6 +8,7 @@
   </a>
 <br>
 <br>
+<img src="./cover.png">
 Damn Vulnerable DeFi solutions!
 <hr>
 <h2> Installing / Getting started </h2>

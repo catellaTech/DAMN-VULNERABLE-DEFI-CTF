@@ -1,4 +1,4 @@
-<h1>Damn Vulnerable Defi 📚🔓</h1>
+<img src="./cover.png">
  <a href="https://github.com/maurodesouza/profile-readme-generator/blob/master/LICENSE.md" target="_blank">
     <img alt="Badge showing project license type" src="https://img.shields.io/github/license/maurodesouza/profile-readme-generator?color=f85149">
   </a>
@@ -8,8 +8,7 @@
   </a>
 <br>
 <br>
-<img src="./cover.png">
-Damn Vulnerable DeFi solutions!
+Damn Vulnerable DeFi solutions! 📚🔓
 <hr>
 <h2> Installing / Getting started </h2>
 
